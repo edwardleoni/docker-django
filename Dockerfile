@@ -1,4 +1,5 @@
-FROM alang/django:1.10-python3
+FROM python:3.6
+ENV PYTHONUNBUFFERED 1
 
 RUN mkdir /app
 RUN ln -s /usr/django/app /app
