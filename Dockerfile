@@ -4,4 +4,4 @@ ENV PYTHONUNBUFFERED 1
 RUN mkdir /app
 RUN ln -s /usr/django/app /app
 
-RUN pip install -r Django
+RUN pip install Django
