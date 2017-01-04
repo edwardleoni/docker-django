@@ -2,8 +2,8 @@
 A docker container for Django local development (not recomended for live environments, might be ok if you are proxying)
 
 ## Versions
-Python v3.6
-Django 1.10
+- Python v3.6
+- Django 1.10
 
 ## Available on Docker Hub
 eduardoleoni/python3.6-django1.10
